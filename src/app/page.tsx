@@ -69,23 +69,23 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-table-with-cheese-plate-pate-it_140725-12866.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-table-with-cheese-plate-pate-it_140725-12866.jpg?_wi=1",
           imageAlt: "Luxurious dining atmosphere",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-arranging-table-restaurant_23-2147936228.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-arranging-table-restaurant_23-2147936228.jpg?_wi=1",
           imageAlt: "Gourmet Indian plating",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-sitting-around-kutab-table-with-pear-dushes_114579-2337.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-sitting-around-kutab-table-with-pear-dushes_114579-2337.jpg?_wi=1",
           imageAlt: "Professional service",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-chef-plating-meal_23-2148794096.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-chef-plating-meal_23-2148794096.jpg?_wi=1",
           imageAlt: "Authentic kitchen",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-table-arrangement-with-delicious-food_23-2149617138.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-table-arrangement-with-delicious-food_23-2149617138.jpg?_wi=1",
           imageAlt: "Modern lounge",
         },
         {
@@ -145,7 +145,7 @@ export default function LandingPage() {
           quote: "The best Tandoori in the city. Truly authentic flavors.",
           tag: "Regular",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-senior-man-luxurious-restaurant_23-2150517444.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-table-with-cheese-plate-pate-it_140725-12866.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-table-with-cheese-plate-pate-it_140725-12866.jpg?_wi=2",
           imageAlt: "happy diner restaurant portrait",
         },
         {
@@ -156,7 +156,7 @@ export default function LandingPage() {
           quote: "Every dish felt like a masterpiece. Highly recommended.",
           tag: "Foodie",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-waitress-standing-with-disposable-coffee-cup_107420-12311.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-arranging-table-restaurant_23-2147936228.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-arranging-table-restaurant_23-2147936228.jpg?_wi=2",
           imageAlt: "happy diner restaurant portrait",
         },
         {
@@ -167,7 +167,7 @@ export default function LandingPage() {
           quote: "The ambiance paired with the food was spectacular.",
           tag: "Guest",
           avatarSrc: "http://img.b2bpic.net/free-photo/smiling-woman-clicking-photo-burger-from-mobile-phone_1170-741.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-sitting-around-kutab-table-with-pear-dushes_114579-2337.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-sitting-around-kutab-table-with-pear-dushes_114579-2337.jpg?_wi=2",
           imageAlt: "happy diner restaurant portrait",
         },
         {
@@ -178,7 +178,7 @@ export default function LandingPage() {
           quote: "Surprisingly great Chinese delights. Loved the diversity.",
           tag: "Local",
           avatarSrc: "http://img.b2bpic.net/free-photo/lifestyle-couple-date-night_23-2149131767.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-chef-plating-meal_23-2148794096.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-chef-plating-meal_23-2148794096.jpg?_wi=2",
           imageAlt: "happy diner restaurant portrait",
         },
         {
@@ -189,7 +189,7 @@ export default function LandingPage() {
           quote: "The service was top notch. A gold standard restaurant.",
           tag: "Tourist",
           avatarSrc: "http://img.b2bpic.net/free-photo/girl-is-sitting-table-restaurant-drink-wine-enjoy-bouquet-red-roses-flower-waiting-date_496169-289.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-table-arrangement-with-delicious-food_23-2149617138.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-table-arrangement-with-delicious-food_23-2149617138.jpg?_wi=2",
           imageAlt: "happy diner restaurant portrait",
         },
       ]}
@@ -203,7 +203,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="Our Culinary Vision"
       description="At Spice Haven, we believe that food is a bridge between cultures. Our chefs meticulously craft every dish, blending traditional techniques with modern culinary arts to ensure a meal that feels like home."
-      imageSrc="http://img.b2bpic.net/free-photo/smiling-young-asian-chef-kitchen-interior_1253-922.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/smiling-young-asian-chef-kitchen-interior_1253-922.jpg?_wi=1"
       imageAlt="Chef at work"
     />
   </div>
