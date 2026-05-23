@@ -150,7 +150,7 @@ export default function LandingPage() {
         },
         {
           id: "t2",
-          name: "Rahul Verma",
+          name: "Demo review #2",
           date: "Sep 2023",
           title: "Pure Magic",
           quote: "Every dish felt like a masterpiece. Highly recommended.",
@@ -161,7 +161,7 @@ export default function LandingPage() {
         },
         {
           id: "t3",
-          name: "Sarah Miller",
+          name: "Demo review #3 ",
           date: "Aug 2023",
           title: "Fantastic Evening",
           quote: "The ambiance paired with the food was spectacular.",
@@ -172,7 +172,7 @@ export default function LandingPage() {
         },
         {
           id: "t4",
-          name: "Vikram Singh",
+          name: "Demo review #4 ",
           date: "Aug 2023",
           title: "Perfect Fusion",
           quote: "Surprisingly great Chinese delights. Loved the diversity.",
@@ -183,7 +183,7 @@ export default function LandingPage() {
         },
         {
           id: "t5",
-          name: "Elena Rossi",
+          name: "Demo review #5 ",
           date: "Jul 2023",
           title: "Unforgettable Dining",
           quote: "The service was top notch. A gold standard restaurant.",
