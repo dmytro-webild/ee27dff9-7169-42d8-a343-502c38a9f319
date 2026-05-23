@@ -139,7 +139,7 @@ export default function LandingPage() {
       testimonials={[
         {
           id: "t1",
-          name: "Ananya Roy",
+          name: "Demo review #1",
           date: "Oct 2023",
           title: "Exquisite Experience",
           quote: "The best Tandoori in the city. Truly authentic flavors.",
