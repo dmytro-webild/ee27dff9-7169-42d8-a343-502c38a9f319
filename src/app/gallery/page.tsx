@@ -26,25 +26,15 @@ export default function LandingPage() {
       <NavbarLayoutFloatingOverlay
       navItems={[
         {
-          name: "Home",
-          id: "/",
-        },
+          name: "Home",          id: "/"},
         {
-          name: "Menu",
-          id: "/menu",
-        },
+          name: "Menu",          id: "/menu"},
         {
-          name: "About",
-          id: "/about",
-        },
+          name: "About",          id: "/about"},
         {
-          name: "Gallery",
-          id: "/gallery",
-        },
+          name: "Gallery",          id: "/gallery"},
         {
-          name: "Contact",
-          id: "/contact",
-        },
+          name: "Contact",          id: "/contact"},
       ]}
       brandName="Spice Haven"
     />
@@ -52,33 +42,22 @@ export default function LandingPage() {
 
   <div id="gallery-images" data-section="gallery-images">
       <FeatureCardTwentyThree
+      animationType="slide-up"
       textboxLayout="default"
       useInvertedBackground={false}
       features={[
         {
-          id: "g1",
-          title: "Elegant Dining Area",
-          tags: [
-            "Ambiance",
-          ],
-          imageSrc: "http://img.b2bpic.net/free-photo/dining-table-with-chairs-tableware_140725-7822.jpg",
-        },
+          id: "g1",          title: "Elegant Dining Area",          tags: [
+            "Ambiance"],
+          imageSrc: "http://img.b2bpic.net/free-photo/dining-table-with-chairs-tableware_140725-7822.jpg"},
         {
-          id: "g2",
-          title: "Premium Table Settings",
-          tags: [
-            "Style",
-          ],
-          imageSrc: "http://img.b2bpic.net/free-photo/napkin-cutlery-plate-near-glasses-plant_23-2148070687.jpg",
-        },
+          id: "g2",          title: "Premium Table Settings",          tags: [
+            "Style"],
+          imageSrc: "http://img.b2bpic.net/free-photo/napkin-cutlery-plate-near-glasses-plant_23-2148070687.jpg"},
         {
-          id: "g3",
-          title: "Family Friendly Zones",
-          tags: [
-            "Experience",
-          ],
-          imageSrc: "http://img.b2bpic.net/free-photo/boy-girl-cooking-together-home_23-2148738642.jpg",
-        },
+          id: "g3",          title: "Family Friendly Zones",          tags: [
+            "Experience"],
+          imageSrc: "http://img.b2bpic.net/free-photo/boy-girl-cooking-together-home_23-2148738642.jpg"},
       ]}
       title="A Visual Feast"
       description="Take a virtual tour through our restaurant space and signature dish preparations."
@@ -100,42 +79,27 @@ export default function LandingPage() {
       logoText="Spice Haven"
       columns={[
         {
-          title: "Dining",
-          items: [
+          title: "Dining",          items: [
             {
-              label: "Menu",
-              href: "/menu",
-            },
+              label: "Menu",              href: "/menu"},
             {
-              label: "Reservations",
-              href: "/contact",
-            },
+              label: "Reservations",              href: "/contact"},
           ],
         },
         {
-          title: "Company",
-          items: [
+          title: "Company",          items: [
             {
-              label: "About Us",
-              href: "/about",
-            },
+              label: "About Us",              href: "/about"},
             {
-              label: "Contact",
-              href: "/contact",
-            },
+              label: "Contact",              href: "/contact"},
           ],
         },
         {
-          title: "Legal",
-          items: [
+          title: "Legal",          items: [
             {
-              label: "Privacy Policy",
-              href: "#",
-            },
+              label: "Privacy Policy",              href: "#"},
             {
-              label: "Terms of Service",
-              href: "#",
-            },
+              label: "Terms of Service",              href: "#"},
           ],
         },
       ]}
