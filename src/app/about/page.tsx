@@ -76,7 +76,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="Our Culinary Vision"
       description="At Spice Haven, we believe that food is a bridge between cultures. Our chefs meticulously craft every dish, blending traditional techniques with modern culinary arts to ensure a meal that feels like home."
-      imageSrc="http://img.b2bpic.net/free-photo/smiling-young-asian-chef-kitchen-interior_1253-922.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/smiling-young-asian-chef-kitchen-interior_1253-922.jpg?_wi=2"
       imageAlt="Chef at work"
     />
   </div>
